@@ -44,13 +44,13 @@
 # ShengBTE
 ### 安装
 
-[这个网站的spglib](https://www.bilibili.com/opus/830089132724191235)
+[spglib](https://www.bilibili.com/opus/830089132724191235)
 
-[这个网站的ShengBTE](https://blog.csdn.net/icehoqion/article/details/125183366)    
+[ShengBTE](https://blog.csdn.net/icehoqion/article/details/125183366)
 要注意的太多了，按下面的来
 ```
 export FFLAGS=-traceback -debug -O2 -static-intel -qopenmp
-export LDFLAGS=-L/home/lynx/Software/ShengBTE/spglib/lib -lsymspg
+export LDFLAGS=-L/home/lynx/Software/ShengBTE/spglib/lib -lsymspg #路径记得改
 export MPIFC=mpiifx
 MKL=$(MKLROOT)/lib/intel64/libmkl_lapack95_lp64.a -Wl,--start-group \
 $(MKLROOT)/lib/intel64/libmkl_intel_lp64.a           \
@@ -59,3 +59,6 @@ $(MKLROOT)/lib/intel64/libmkl_core.a -Wl,--end-group -lpthread -lm
 export LAPACK=$(MKL)
 export LIBS=$(LAPACK)
 ```
+
+[Thirdoder](https://zhuanlan.zhihu.com/p/682630507)
+注意两个路径应该是spglib里面的include和lib
