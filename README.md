@@ -1,5 +1,9 @@
 # VASP
 
+### 软件安装
+
+[B站](https://www.bilibili.com/video/BV1uRPKeNE4i/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40a48245864eb8114b1d1e6e1c6113e7)
+
 ### 软件问题
 
 [运算量太大无法运行(174)的解决办法](https://blog.csdn.net/lwl_666/article/details/82699759)
@@ -62,3 +66,13 @@ export LIBS=$(LAPACK)
 
 [Thirdoder](https://zhuanlan.zhihu.com/p/682630507)
 注意两个路径应该是spglib里面的include和lib
+
+
+
+
+
+# Vesta
+
+### 基本用法和原子掺杂
+
+[B站视频](https://www.bilibili.com/video/BV1nh411G7Kf/?spm_id_from=333.337.search-card.all.click&vd_source=40a48245864eb8114b1d1e6e1c6113e7)
