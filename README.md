@@ -7,7 +7,7 @@
 ### 软件问题
 
 [运算量太大无法运行(174)的解决办法](https://blog.csdn.net/lwl_666/article/details/82699759)
-
+[无法并行计算的解决办法（报错为mpiexec）](http://bbs.keinsci.com/thread-16082-1-1.html)
 
 ### 结构优化opt
 
