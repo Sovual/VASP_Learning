@@ -7,11 +7,13 @@
 ### 软件问题
 
 [运算量太大无法运行(174)的解决办法](https://blog.csdn.net/lwl_666/article/details/82699759)
+
 [无法并行计算的解决办法（报错为mpiexec）](http://bbs.keinsci.com/thread-16082-1-1.html)
 
 ### 结构优化opt
 
 [B站合集](https://www.bilibili.com/opus/1006527467019567136)
+
 [INCAR参数设置](https://mp.weixin.qq.com/s?__biz=MzkwNTM5MTI2NA==&mid=2247483665&idx=1&sn=7bf4a90aae37dec15bbd3e6afe881f87&chksm=c0f93cdef78eb5c8a2b46da38a2dc1bf141fb03caf88c34250832823812fc91d309f2aa5ad6a&scene=21#wechat_redirect)
 
 EDFFIG无法收敛且一直报错时，可以试试加上`NELMIN = 5`，`NELM = 150`，也可以把`IBRION`设置为`1`改为阻尼法
