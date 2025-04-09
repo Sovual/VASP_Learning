@@ -78,3 +78,11 @@ export LIBS=$(LAPACK)
 ### 基本用法和原子掺杂
 
 [B站视频](https://www.bilibili.com/video/BV1nh411G7Kf/?spm_id_from=333.337.search-card.all.click&vd_source=40a48245864eb8114b1d1e6e1c6113e7)
+
+
+
+
+
+# 声子相关
+
+[声子基础知识，知乎专栏](https://zhuanlan.zhihu.com/p/658851809)
