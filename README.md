@@ -83,8 +83,18 @@ export LIBS=$(LAPACK)
 
 
 
+# hiphive
+
+### 教程
+
+[知乎](https://zhuanlan.zhihu.com/p/652641851)
+
+[官网](https://hiphive.materialsmodeling.org/tutorial/index.html)
+
 
 
 # 声子相关
 
 [声子基础知识，知乎专栏](https://zhuanlan.zhihu.com/p/658851809)
+
+
